@@ -12,19 +12,33 @@
     "defaults and partially supports es6-module"
   ],
   "devDependencies": {
+<<<<<<< HEAD
     "@eslint/js": "^9.36.0",
     "@popperjs/core": "^2.11.8",
     "@tailwindcss/postcss": "^4.1.13",
+=======
+    "@eslint/js": "^9.37.0",
+    "@popperjs/core": "^2.11.8",
+    "@tailwindcss/postcss": "^4.1.14",
+>>>>>>> 147f71aa75cafe3037ea89f7bdef220205f7fbfd
     "@types/jquery": "^3.5.33",
     "@types/jqueryui": "^1.12.24",
     "@types/lodash": "^4.17.20",
     "@types/mark.js": "^8.11.12",
     "@types/toastr": "^2.1.43",
+<<<<<<< HEAD
     "@typescript-eslint/parser": "^8.44.1",
     "@vitejs/plugin-vue": "^6.0.1",
     "autoprefixer": "^10.4.21",
     "css-loader": "^7.1.2",
     "eslint": "^9.36.0",
+=======
+    "@typescript-eslint/parser": "^8.45.0",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "autoprefixer": "^10.4.21",
+    "css-loader": "^7.1.2",
+    "eslint": "^9.37.0",
+>>>>>>> 147f71aa75cafe3037ea89f7bdef220205f7fbfd
     "eslint-config-prettier": "^10.1.8",
     "eslint-import-resolver-typescript": "^4.4.4",
     "eslint-plugin-better-tailwindcss": "^3.7.9",
@@ -39,10 +53,17 @@
     "ts-node": "^10.9.2",
     "tslib": "^2.8.1",
     "typescript": "6.0.0-dev.20250807",
+<<<<<<< HEAD
     "typescript-eslint": "^8.44.1",
     "unplugin-auto-import": "^20.2.0",
     "unplugin-vue-components": "^29.1.0",
     "vite": "^7.1.7",
+=======
+    "typescript-eslint": "^8.45.0",
+    "unplugin-auto-import": "^20.2.0",
+    "unplugin-vue-components": "^29.1.0",
+    "vite": "^7.1.9",
+>>>>>>> 147f71aa75cafe3037ea89f7bdef220205f7fbfd
     "vite-plugin-external": "^6.2.2",
     "vue-eslint-parser": "^10.2.0",
     "vue-loader": "^17.4.2",
@@ -56,7 +77,11 @@
     "@vueuse/shared": "^13.9.0",
     "pinia": "^3.0.3",
     "type-fest": "^4.41.0",
+<<<<<<< HEAD
     "vue": "^3.5.21",
+=======
+    "vue": "^3.5.22",
+>>>>>>> 147f71aa75cafe3037ea89f7bdef220205f7fbfd
     "zod": "^4.1.11"
   }
 }
