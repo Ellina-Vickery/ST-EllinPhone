@@ -24,7 +24,11 @@ export default defineConfig(({ mode }) => ({
     vue({
       features: {
         optionsAPI: false,
+<<<<<<< HEAD
         prodDevtools: true,
+=======
+        prodDevtools: process.env.CI !== 'true',
+>>>>>>> f51dc0026eb0eedd596175bbe6a7c811a02ace75
         prodHydrationMismatchDetails: false,
       },
     }),
