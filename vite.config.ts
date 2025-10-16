@@ -24,7 +24,11 @@ export default defineConfig(({ mode }) => ({
     vue({
       features: {
         optionsAPI: false,
+<<<<<<< HEAD
         prodDevtools: true,
+=======
+        prodDevtools: process.env.CI !== 'true',
+>>>>>>> d4c8a8439aa6a87f3dc78db9c12355056842257a
         prodHydrationMismatchDetails: false,
       },
     }),
@@ -86,7 +90,11 @@ export default defineConfig(({ mode }) => ({
     },
 
     outDir: 'dist',
+<<<<<<< HEAD
     emptyOutDir: true,
+=======
+    emptyOutDir: false,
+>>>>>>> d4c8a8439aa6a87f3dc78db9c12355056842257a
 
     sourcemap: mode === 'production' ? true : 'inline',
 
