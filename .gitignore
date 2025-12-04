@@ -9,4 +9,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+<<<<<<< HEAD
 /.cursor
+=======
+>>>>>>> dfff5332eda009b272d5cb7dcf0dcd56c0482b2f
