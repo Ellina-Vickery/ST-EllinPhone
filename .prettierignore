@@ -1,2 +1,5 @@
 dist
+<<<<<<< HEAD
 src/builtin_scripts/**/*.js
+=======
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
